@@ -1,2 +1,8 @@
 # Ignore Config File
 config.py
+
+# CSV
+
+.csv
+
+.DS_Store
